@@ -1,8 +1,8 @@
 
-ECE 4750 Tutorial 4: Verilog Hardware Description Language
+ECE 5745 Tutorial 4: Verilog Hardware Description Language
 ==========================================================================
 
-This repository contains source code for ECE 4750 Tutorial 4 on the
+This repository contains source code for ECE 5745 Tutorial 4 on the
 Verilog hardware description language. The detailed tutorial document can
 be found here:
 
